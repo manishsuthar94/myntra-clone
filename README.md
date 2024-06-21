@@ -8,8 +8,8 @@ You can view the project here: [Myntra Clone](https://manishsuthar94.github.io/m
 
 ## Project Image
 
-![Project Screenshot]([(https://raw.githubusercontent.com/manishsuthar94/myntra-clone/main/Myntra%20Functional%20Clone.png)])
-
+![Project Screenshot] https://raw.githubusercontent.com/manishsuthar94/myntra-clone/main/Myntra%20Functional%20Clone.png
+ 
 ## Features
 
 - Product listing
