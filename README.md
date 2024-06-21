@@ -8,7 +8,7 @@ You can view the project here: [Myntra Clone](https://manishsuthar94.github.io/m
 
 ## Project Image
 
-![Project Screenshot](https://your-image-url-here.com/project-screenshot.png)
+![Project Screenshot]([https://your-image-url-here.com/project-screenshot.png](https://raw.githubusercontent.com/manishsuthar94/myntra-clone/main/Myntra%20Functional%20Clone.png))
 
 ## Features
 
